@@ -20,7 +20,7 @@ Create a ESP32 router using the ESP32CAM
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=BP1Dz66faf4&t=1s
-" target="_blank"><img src="https://github.com/Kenielmc/ESP-32-Router-Process/blob/main/Screenshot%202023-03-15%20115315.png" 
+" target="_blank"><img src="https://github.com/Kenielmc/ESP-32-Router-Process/blob/main/Screenshot%202023-03-15%20124324.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Steps I Followed
