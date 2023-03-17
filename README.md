@@ -24,6 +24,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Steps I Followed
+![ESP32 Flash Download Tool](https://github.com/Kenielmc/ESP-32-Router-Process/blob/main/image%20(1).png "Logo Title Text 1")
 
-![ESP32 Flash Download Tool](https://github.com/Kenielmc/ESP-32-Router-Process/blob/main/image.png "Logo Title Text 1")
+![Router Connected](https://github.com/Kenielmc/ESP-32-Router-Process/blob/main/image.png "Logo Title Text 1")
 
