@@ -24,6 +24,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Steps I Followed
+-Downloaded ESP32 Flash Download Tool
+-Installed ESP32 Flash Download Tool
+-Input C:\Users\User\Documents\GitHub\esp32_nat_router\build\esp32 where you will find a folder named Build.
+-Input into the Flash download as shown in image below
 ![ESP32 Flash Download Tool](https://github.com/Kenielmc/ESP-32-Router-Process/blob/main/image%20(1).png "Logo Title Text 1")
 
 ![Router Connected](https://github.com/Kenielmc/ESP-32-Router-Process/blob/main/image.png "Logo Title Text 1")
