@@ -25,6 +25,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Steps I Followed
 
-Inline-style: 
 ![ESP32 Flash Download Tool](https://github.com/Kenielmc/ESP-32-Router-Process/blob/main/image.png "Logo Title Text 1")
 
